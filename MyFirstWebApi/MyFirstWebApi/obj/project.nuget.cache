@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "E4Y/VaIBnGRnCoxdjUNxGC04cgIms55LfP65T6nQblD8RDPKAL1Zm8zcRkOrIWe8eFohcLY09Y1H1SWey0NVLg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ACER\\source\\repos\\MyFirstWebApi\\MyFirstWebApi\\MyFirstWebApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ACER\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.13\\microsoft.visualstudio.azure.containers.tools.targets.1.10.13.nupkg.sha512"
+  ],
+  "logs": []
+}
